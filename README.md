@@ -2,7 +2,7 @@
 
 This is a simple demo app for showing how to do basic form validation in React.
 
-[See the app running on Heroku](https://reactform.herokuapp.com).
+[See the app running on Heroku](https://repl.it/github/learnetto/react-form-validation-demo)).
 
 It includes a sign up form with email and password input fields and a sign up button.
 
